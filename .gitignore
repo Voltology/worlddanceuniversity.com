@@ -1,0 +1,6 @@
+.local.inc.php
+*~
+*.swp
+*.swo
+*.swn
+.DS_Store
